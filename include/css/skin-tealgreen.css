@@ -1,0 +1,8 @@
+.boxservice i, .highlight, .navbar-nav>li>a:hover 
+{color:#1abc9c;}
+
+.maincolorbg, #portfolio .portfolio-item .portfolio-link .caption, 
+.navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.active>a:hover,.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-nav li a.active,.navbar-inverse .navbar-nav>li>a:hover,.navbar-inverse .navbar-nav>li>a:focus,
+::selection 			
+{background-color:#1abc9c;}
